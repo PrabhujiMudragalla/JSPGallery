@@ -8,7 +8,7 @@ const Q = require('q');
 const fs = require('fs');
 const async = require('async');
 const MongoClient = require('mongodb').MongoClient;
-const MongoQueryString = 'mongodb://localhost';
+const MongoQueryString = 'mongodb://newsjsp:ouBnFVvi6JgsFAHHg5dufq8yx0DXlNLAAvWzvnSaOlf5fkKh4fVTcSUGj6Y8IowqhVoJArPIRCJMII1a0MjvEQ==@newsjsp.documents.azure.com:10255/?ssl=true&replicaSet=globaldb';
 
  
 
